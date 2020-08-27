@@ -1,2 +1,3 @@
-# lfortran_test
-Repository for testing LFortran capabilities.
+# LFortran test repository
+
+Repository for testing [LFortran](https://lfortran.org/) capabilities.
